@@ -1,0 +1,15 @@
+C:\Users\opilane\source\repos\toofailidega1\toofailidega1\bin\Debug\net6.0\toofailidega1.exe
+C:\Users\opilane\source\repos\toofailidega1\toofailidega1\bin\Debug\net6.0\toofailidega1.deps.json
+C:\Users\opilane\source\repos\toofailidega1\toofailidega1\bin\Debug\net6.0\toofailidega1.runtimeconfig.json
+C:\Users\opilane\source\repos\toofailidega1\toofailidega1\bin\Debug\net6.0\toofailidega1.dll
+C:\Users\opilane\source\repos\toofailidega1\toofailidega1\bin\Debug\net6.0\ref\toofailidega1.dll
+C:\Users\opilane\source\repos\toofailidega1\toofailidega1\bin\Debug\net6.0\toofailidega1.pdb
+C:\Users\opilane\source\repos\toofailidega1\toofailidega1\obj\Debug\net6.0\toofailidega1.csproj.AssemblyReference.cache
+C:\Users\opilane\source\repos\toofailidega1\toofailidega1\obj\Debug\net6.0\toofailidega1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\source\repos\toofailidega1\toofailidega1\obj\Debug\net6.0\toofailidega1.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\toofailidega1\toofailidega1\obj\Debug\net6.0\toofailidega1.AssemblyInfo.cs
+C:\Users\opilane\source\repos\toofailidega1\toofailidega1\obj\Debug\net6.0\toofailidega1.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\toofailidega1\toofailidega1\obj\Debug\net6.0\toofailidega1.dll
+C:\Users\opilane\source\repos\toofailidega1\toofailidega1\obj\Debug\net6.0\ref\toofailidega1.dll
+C:\Users\opilane\source\repos\toofailidega1\toofailidega1\obj\Debug\net6.0\toofailidega1.pdb
+C:\Users\opilane\source\repos\toofailidega1\toofailidega1\obj\Debug\net6.0\toofailidega1.genruntimeconfig.cache
